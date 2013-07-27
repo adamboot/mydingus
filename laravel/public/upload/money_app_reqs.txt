@@ -1,0 +1,8 @@
+- add, edit, delete owed amount
+- mark amount as paid
+- add, edit, delete expenses
+- create expenses (type, unit)
+- calculate tax owed per invoice
+- highlight unpaid invoices
+- calculate total of invoice amounts
+- sort by client, amount, date
